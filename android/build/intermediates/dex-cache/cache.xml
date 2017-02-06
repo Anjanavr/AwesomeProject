@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/var/www/html/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-3d24fee0f987ee5ecf679b9fdeeb30d2b6498509.jar" />
+    </item>
+    <item
+        jar="/var/www/html/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b49a04a3016689b372ecbb77f0c33e486e768cca">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-70cf0c5c3f71dbd9a057ce3228a76fe613434a02.jar" />
+    </item>
+    <item
+        jar="/var/www/html/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-5da407034d93d55120e68fdf199e3f90894bd8f5.jar" />
+    </item>
+    <item
+        jar="/var/www/html/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-00dd96c9a6b0a95f4e293b4336f69ed2e283406d.jar" />
+    </item>
+    <item
+        jar="/home/anjana/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-1ce3d448048fb4589ae9b3f362b834f580b09ace.jar" />
+    </item>
+    <item
+        jar="/var/www/html/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-215784f0c47a3627306252d3403298a582f4245f.jar" />
+    </item>
+    <item
+        jar="/var/www/html/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-ea5eae9baccb73f7d2ee5bd8a8882222f144395b.jar" />
+    </item>
+    <item
+        jar="/home/anjana/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-7bb1f730a4face55f660ab55bb4875758287f597.jar" />
+    </item>
+    <item
+        jar="/var/www/html/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-e4eef0e4500e6aaefeffbba586e1dc699cfa62aa.jar" />
+    </item>
+    <item
+        jar="/var/www/html/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-5c94f070b38429f98e74f1b0846ee7aceca9a3cf.jar" />
+    </item>
+    <item
+        jar="/home/anjana/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-b7242cefe84d376ef6133af93d3de56873ed08ff.jar" />
+    </item>
+    <item
+        jar="/home/anjana/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-ee13152c28b3c5d0ae4717a5f5168a789d922bcc.jar" />
+    </item>
+    <item
+        jar="/home/anjana/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-19a8f77081337654bc0f1a04becc0f05f8245e55.jar" />
+    </item>
+    <item
+        jar="/home/anjana/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-4deff635186e8ec231b9d884e6b357f53fd693c4.jar" />
+    </item>
+    <item
+        jar="/var/www/html/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-f5ef4569626607432e45a74119fbd18b7bcb95ec.jar" />
+    </item>
+    <item
+        jar="/home/anjana/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-322f872938186658b21c534f61cd432d40e5b58a.jar" />
+    </item>
+    <item
+        jar="/home/anjana/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0-a9e9423610c279cfb046e034a4c2ceb39091923b.jar" />
+    </item>
+    <item
+        jar="/var/www/html/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-a75a1a759b5b3b954f8546225f9314b161ced4ce.jar" />
+    </item>
+    <item
+        jar="/var/www/html/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-40eebd58ee8fa4326c37b9c6ecd6f7faf9f3b2bf.jar" />
+    </item>
+    <item
+        jar="/home/anjana/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-1f863794030a2aef45f49cd0a86d9aa4a9ab3732.jar" />
+    </item>
+    <item
+        jar="/var/www/html/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0-2bb96f1a920c56b4546d7da0975a6ef1acdd3a1e.jar" />
+    </item>
+    <item
+        jar="/var/www/html/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-99fef3c5d25f40e0cab2fb3ef8c23c817cb6dcfe.jar" />
+    </item>
+    <item
+        jar="/var/www/html/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-3b8cd4d85eb5e11d76d8e5977d9ac7e603c3b77a.jar" />
+    </item>
+    <item
+        jar="/home/anjana/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/var/www/html/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0-b88eaff234305951a8424711955dd8287e630949.jar" />
+    </item>
+
+</items>
