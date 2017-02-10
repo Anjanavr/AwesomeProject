@@ -6,3 +6,11 @@ To start in android emulator/device
 1) react-native start (For bundling the js file)
 
 2) react-native run-android (fetch the bundle and install in emulator/device)
+
+#To Do
+
+Make list item a seperate component
+
+Include navigations
+
+Understand the build structure
